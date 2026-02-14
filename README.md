@@ -6,7 +6,7 @@ Machine Learning Assignment-2
 **BITS ID:** 2025AB05323
 **Course:** AIMLCZG565  
 **Email:** 2025AB05323@WILP.BITS-PILANI.ac.in
-**GitHub:** https://github.com/2025ab05323/ML-Assignment2
+**GitHub:** https://github.com/2025ab05323/ml-Assignment-2
 **Assignment:** Assignment 2 - Classification Models and Streamlit Deployment
 
 ---
