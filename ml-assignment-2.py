@@ -13,7 +13,7 @@ import sklearn
 import xgboost
 
 # Load dataset
-df = pd.read_csv('C:/Users/smkat/heart.csv')
+df = pd.read_csv('heart.csv')
 
 # Basic exploration
 print("Dataset Shape:", df.shape)
@@ -437,3 +437,4 @@ test_data.to_csv('test_data.csv', index=False)
 print(" Test data saved to 'test_data.csv'")
 
 #-==========================================================================
+
